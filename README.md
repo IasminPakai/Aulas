@@ -10,3 +10,6 @@
 
 ## EXERCÍCIO 4
 ![](https://github.com/IasminPakai/Aulas/blob/main/ex4.jpg)
+
+## EXERCÍCIO 5 
+![](https://github.com/IasminPakai/Aulas/blob/main/ex5.jpg)
